@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Fitness First",
+      "address": "123 Main Street, Cityville, State",
+      "latitude": 12.345678,
+      "longitude": -45.678901
+    },
+    {
+      "name": "GymZone",
+      "address": "456 Elm Avenue, Townsville, State",
+      "latitude": 23.456789,
+      "longitude": -34.567890
+    },
+    {
+      "name": "PowerFit Gym",
+      "address": "789 Oak Road, Villageland, State",
+      "latitude": 34.567890,
+      "longitude": -23.456789
+    }
+  ]
+
+  
